@@ -1,0 +1,13 @@
+<svg width="440" height="150" viewBox="0 0 440 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GameAgent project card">
+  <rect x="7" y="7" width="426" height="136" rx="5" fill="#e60012" transform="rotate(1 220 75)"/>
+  <path d="M17 7L429 21L418 143L8 128Z" fill="#0a0a0a" stroke="#fff" stroke-width="3"/>
+  <path d="M335 18L429 21L418 143L350 140Z" fill="#e60012"/>
+  <path d="M366 58L385 40L404 58L399 101L371 101Z" fill="#fff" stroke="#0a0a0a" stroke-width="6"/>
+  <circle cx="382" cy="68" r="5" fill="#0a0a0a"/>
+  <circle cx="395" cy="77" r="5" fill="#0a0a0a"/>
+  <text x="38" y="54" fill="#fff" font-family="'Arial Black',Arial,sans-serif" font-size="26" font-weight="900">GameAgent</text>
+  <text x="38" y="81" fill="#aaa" font-family="Arial,sans-serif" font-size="14">AI Agent text-game engine</text>
+  <circle cx="42" cy="111" r="6" fill="#3572a5"/>
+  <text x="56" y="116" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">Python</text>
+  <text x="312" y="120" text-anchor="end" fill="#e60012" font-family="'Arial Black',Arial,sans-serif" font-size="17" font-weight="900">04</text>
+</svg>

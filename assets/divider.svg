@@ -1,0 +1,15 @@
+<svg width="850" height="24" viewBox="0 0 850 24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider - Persona 5 style">
+  <g transform="translate(425 12)">
+    <!-- 左右红色锥形条 -->
+    <polygon points="-415,-4 -34,-2 -34,2 -415,4" fill="#E60012"/>
+    <polygon points="34,-2 415,-4 415,4 34,2" fill="#E60012"/>
+    <!-- 黑色细影 -->
+    <polygon points="-415,5 -34,3.5 -34,4.5 -415,6" fill="#0a0a0a" opacity="0.85"/>
+    <polygon points="34,3.5 415,5 415,6 34,4.5" fill="#0a0a0a" opacity="0.85"/>
+    <!-- 中央四角星（脉动） -->
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1;1.25;1" dur="2.4s" repeatCount="indefinite"/>
+      <polygon points="0,-11 2.6,-2.6 11,0 2.6,2.6 0,11 -2.6,2.6 -11,0 -2.6,-2.6" fill="#ffffff" stroke="#0a0a0a" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

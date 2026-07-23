@@ -1,0 +1,11 @@
+<svg width="440" height="150" viewBox="0 0 440 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="WritingAgent project card">
+  <rect x="7" y="7" width="426" height="136" rx="5" fill="#e60012" transform="rotate(-1 220 75)"/>
+  <path d="M12 18L423 7L432 128L21 143Z" fill="#0a0a0a" stroke="#fff" stroke-width="3"/>
+  <path d="M12 18L116 15L87 143L21 143Z" fill="#e60012"/>
+  <path d="M22 31L101 27M17 47L98 43M15 63L94 59" stroke="#0a0a0a" stroke-width="6" opacity=".55"/>
+  <text x="116" y="55" fill="#fff" font-family="'Arial Black',Arial,sans-serif" font-size="26" font-weight="900">WritingAgent</text>
+  <text x="116" y="82" fill="#aaa" font-family="Arial,sans-serif" font-size="14">AI writing assistant frontend</text>
+  <circle cx="120" cy="112" r="6" fill="#3178c6"/>
+  <text x="134" y="117" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">TypeScript</text>
+  <text x="392" y="121" text-anchor="end" fill="#e60012" font-family="'Arial Black',Arial,sans-serif" font-size="17" font-weight="900">01</text>
+</svg>

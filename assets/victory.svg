@@ -1,0 +1,17 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="会赢的">
+  <defs>
+    <pattern id="v-dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.4" fill="#e60012"/>
+    </pattern>
+    <filter id="v-rough">
+      <feTurbulence baseFrequency=".025" numOctaves="2" seed="11" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+  </defs>
+  <polygon points="0,48 770,0 800,205 35,250" fill="#0a0a0a"/>
+  <polygon points="18,29 754,24 774,192 51,226" fill="#e60012"/>
+  <polygon points="42,51 726,39 748,172 70,206" fill="#fff" filter="url(#v-rough)"/>
+  <polygon points="0,178 252,165 205,250 0,250" fill="url(#v-dots)" opacity=".72"/>
+  <text x="400" y="162" text-anchor="middle" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="2" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC','Arial Black',sans-serif" font-size="118" font-weight="900" letter-spacing="24" transform="rotate(-2 400 125)">会赢的</text>
+  <path d="M48 35L93 19M702 213L759 199M27 103L7 104M781 88L799 83" stroke="#fff" stroke-width="8"/>
+</svg>

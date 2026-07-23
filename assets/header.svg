@@ -1,0 +1,46 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="lide4144 comic profile banner">
+  <defs>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.8" fill="#fff"/>
+    </pattern>
+    <pattern id="stripes" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)">
+      <rect width="12" height="28" fill="#e60012"/>
+    </pattern>
+    <filter id="rough">
+      <feTurbulence baseFrequency=".018" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" fill="#090909"/>
+  <polygon points="0,0 410,0 300,300 0,300" fill="#e60012"/>
+  <polygon points="0,0 255,0 130,300 0,300" fill="url(#stripes)" opacity=".55"/>
+  <polygon points="720,0 1000,0 1000,300 850,300" fill="url(#dots)" opacity=".34"/>
+
+  <g opacity=".95">
+    <polygon points="0,56 495,90 475,110 0,87" fill="#fff"/>
+    <polygon points="0,112 440,128 420,143 0,137" fill="#0a0a0a"/>
+    <polygon points="1000,222 516,205 541,188 1000,198" fill="#e60012"/>
+    <polygon points="1000,246 600,226 620,216 1000,227" fill="#fff"/>
+  </g>
+
+  <g transform="translate(210 41) rotate(-3)" filter="url(#rough)">
+    <polygon points="0,20 592,0 628,184 35,208" fill="#e60012"/>
+    <polygon points="13,8 578,4 604,165 27,191" fill="#fff"/>
+    <polygon points="27,23 560,17 574,151 43,172" fill="#0a0a0a"/>
+  </g>
+
+  <g transform="translate(500 137) rotate(-4)">
+    <text x="0" y="0" text-anchor="middle" fill="#fff" font-family="'Arial Black','Noto Sans SC',sans-serif" font-size="70" font-weight="900" letter-spacing="-3">LIDE4144</text>
+    <rect x="-208" y="21" width="416" height="32" fill="#e60012"/>
+    <text x="0" y="44" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="800" letter-spacing="4">AI AGENT / RUST / 4AM</text>
+  </g>
+
+  <g transform="translate(878 155) rotate(8)">
+    <path d="M-74 0Q0-68 74 0Q38 74 0 78Q-40 73-74 0Z" fill="#fff"/>
+    <path d="M-57 4Q-28-28-5-4Q-27 27-57 4ZM57 4Q28-28 5-4Q27 27 57 4Z" fill="#090909"/>
+    <path d="M-13 44L0 31L13 44L0 61Z" fill="#e60012"/>
+  </g>
+
+  <text x="24" y="282" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="3">PROFILE // 2026</text>
+</svg>

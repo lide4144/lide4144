@@ -1,0 +1,25 @@
+<svg width="440" height="190" viewBox="0 0 440 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="lide4144 GitHub stats">
+  <rect x="7" y="7" width="426" height="176" fill="#e60012" transform="rotate(-1 220 95)"/>
+  <path d="M15 12L428 20L420 181L9 168Z" fill="#0a0a0a" stroke="#fff" stroke-width="3"/>
+  <path d="M15 12L117 14L87 171L9 168Z" fill="#e60012"/>
+  <g fill="#0a0a0a" opacity=".45">
+    <path d="M17 34L109 29L106 40L15 47Z"/>
+    <path d="M14 58L103 51L100 62L12 72Z"/>
+    <path d="M12 84L98 73L95 85L11 99Z"/>
+  </g>
+  <text x="125" y="52" fill="#fff" font-family="'Arial Black',Arial,sans-serif" font-size="24" font-weight="900">GITHUB STATS</text>
+  <text x="125" y="73" fill="#e60012" font-family="Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="3">LIDE4144 / RECORD 01</text>
+  <g font-family="Arial,sans-serif">
+    <text x="125" y="113" fill="#fff" font-size="25" font-weight="900">33</text>
+    <text x="125" y="132" fill="#999" font-size="11" font-weight="700">REPOSITORIES</text>
+    <text x="223" y="113" fill="#fff" font-size="25" font-weight="900">5</text>
+    <text x="223" y="132" fill="#999" font-size="11" font-weight="700">STARS</text>
+    <text x="304" y="113" fill="#fff" font-size="25" font-weight="900">1</text>
+    <text x="304" y="132" fill="#999" font-size="11" font-weight="700">FOLLOWER</text>
+    <text x="382" y="113" fill="#fff" font-size="25" font-weight="900">1</text>
+    <text x="382" y="132" text-anchor="middle" fill="#999" font-size="11" font-weight="700">MERGED PR</text>
+  </g>
+  <path d="M124 151H397" stroke="#333" stroke-width="2"/>
+  <path d="M124 151H306" stroke="#e60012" stroke-width="5"/>
+  <circle cx="306" cy="151" r="7" fill="#fff" stroke="#e60012" stroke-width="3"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="440" height="150" viewBox="0 0 440 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="pi-web-access project card">
+  <rect x="7" y="7" width="426" height="136" rx="5" fill="#e60012" transform="rotate(1 220 75)"/>
+  <path d="M18 8L429 18L419 143L8 129Z" fill="#0a0a0a" stroke="#fff" stroke-width="3"/>
+  <path d="M330 16L429 18L419 143L354 141Z" fill="#e60012"/>
+  <circle cx="385" cy="79" r="27" fill="none" stroke="#0a0a0a" stroke-width="9"/>
+  <path d="M367 79H403M385 61V97" stroke="#0a0a0a" stroke-width="8"/>
+  <text x="38" y="54" fill="#fff" font-family="'Arial Black',Arial,sans-serif" font-size="25" font-weight="900">pi-web-access</text>
+  <text x="38" y="81" fill="#aaa" font-family="Arial,sans-serif" font-size="14">Custom Gemini gateway for Pi</text>
+  <circle cx="42" cy="111" r="6" fill="#3178c6"/>
+  <text x="56" y="116" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">TypeScript</text>
+  <text x="310" y="120" text-anchor="end" fill="#e60012" font-family="'Arial Black',Arial,sans-serif" font-size="17" font-weight="900">02</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="1000" height="130" viewBox="0 0 1000 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="lide4144 footer">
+  <defs>
+    <pattern id="f-dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.5" fill="#e60012"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="130" fill="#090909"/>
+  <polygon points="0,0 350,0 270,130 0,130" fill="url(#f-dots)" opacity=".65"/>
+  <polygon points="1000,0 780,0 840,130 1000,130" fill="#e60012"/>
+  <polygon points="0,96 430,71 468,88 0,119" fill="#e60012"/>
+  <polygon points="1000,29 570,55 533,40 1000,7" fill="#fff"/>
+  <polygon points="347,27 680,19 702,102 326,110" fill="#e60012"/>
+  <polygon points="360,20 665,25 680,91 343,99" fill="#fff"/>
+  <text x="512" y="70" text-anchor="middle" fill="#0a0a0a" font-family="'Arial Black',Arial,sans-serif" font-size="28" font-weight="900" letter-spacing="5">LIDE4144</text>
+</svg>
